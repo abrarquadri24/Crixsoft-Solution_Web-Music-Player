@@ -10,10 +10,6 @@ Built as part of the **Crixsoft Solution Web Development Internship** 🚀
 
 ---
 
-## 📸 Preview
-
-![Music Player Preview](./readme-images/desktop.png)
-
 ## ✨ Features
 
 - ▶️ **Play / Pause** — control playback with a single click
@@ -58,7 +54,7 @@ music-player/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<abrarquadri>/Crixsoft-Solution_Web-Music-Player.git
+git clone https://github.com/<abrarquadri24>/Crixsoft-Solution_Web-Music-Player.git
 
 # Navigate into the project folder
 cd Crixsoft-Solution_Web-Music-Player
@@ -85,9 +81,7 @@ This project was completed as part of the **Web Development Internship at Crixso
 
 ## 📬 Contact
 
-**Crixsoft Solution**
-🌐 [www.crixsoftsolution.com](http://www.crixsoftsolution.com)
-📧 info@crixsoftsolution.com
+**Abrar Quadri**
 💼 [LinkedIn](https://www.linkedin.com/in/abrarquadri)
 
 ## 📄 License
